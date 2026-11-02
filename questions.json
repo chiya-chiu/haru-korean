@@ -1,0 +1,1078 @@
+{
+  "vocabulary": [
+    {
+      "id": "v001",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "考試",
+      "ko": "시험",
+      "alternatives": []
+    },
+    {
+      "id": "v002",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "結婚典禮",
+      "ko": "결혼식",
+      "alternatives": []
+    },
+    {
+      "id": "v003",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "約會",
+      "ko": "데이트",
+      "alternatives": []
+    },
+    {
+      "id": "v004",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "同學會",
+      "ko": "동창회",
+      "alternatives": []
+    },
+    {
+      "id": "v005",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "上課",
+      "ko": "수업",
+      "alternatives": []
+    },
+    {
+      "id": "v006",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "會議",
+      "ko": "회의",
+      "alternatives": []
+    },
+    {
+      "id": "v007",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "派對",
+      "ko": "파티",
+      "alternatives": []
+    },
+    {
+      "id": "v008",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "中午",
+      "ko": "정오",
+      "alternatives": []
+    },
+    {
+      "id": "v009",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "傍晚",
+      "ko": "저녁 무렵",
+      "alternatives": []
+    },
+    {
+      "id": "v010",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "白天",
+      "ko": "낮",
+      "alternatives": []
+    },
+    {
+      "id": "v011",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "下午",
+      "ko": "오후",
+      "alternatives": []
+    },
+    {
+      "id": "v012",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "週末",
+      "ko": "주말",
+      "alternatives": []
+    },
+    {
+      "id": "v013",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "下星期",
+      "ko": "다음 주",
+      "alternatives": []
+    },
+    {
+      "id": "v014",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "下個月",
+      "ko": "다음 달",
+      "alternatives": []
+    },
+    {
+      "id": "v015",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "辦公室",
+      "ko": "사무실",
+      "alternatives": []
+    },
+    {
+      "id": "v016",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "補習班",
+      "ko": "학원",
+      "alternatives": []
+    },
+    {
+      "id": "v017",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "圖書館",
+      "ko": "도서관",
+      "alternatives": []
+    },
+    {
+      "id": "v018",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "超市",
+      "ko": "마트",
+      "alternatives": []
+    },
+    {
+      "id": "v019",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "市場",
+      "ko": "시장",
+      "alternatives": []
+    },
+    {
+      "id": "v020",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "郵局",
+      "ko": "우체국",
+      "alternatives": []
+    },
+    {
+      "id": "v021",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "餐廳",
+      "ko": "식당",
+      "alternatives": []
+    },
+    {
+      "id": "v022",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "一起",
+      "ko": "같이",
+      "alternatives": []
+    },
+    {
+      "id": "v023",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "堂哥",
+      "ko": "사촌 오빠",
+      "alternatives": []
+    },
+    {
+      "id": "v024",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "星期六",
+      "ko": "토요일",
+      "alternatives": []
+    },
+    {
+      "id": "v025",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "明天",
+      "ko": "내일",
+      "alternatives": []
+    },
+    {
+      "id": "v026",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "星期日",
+      "ko": "일요일",
+      "alternatives": []
+    },
+    {
+      "id": "v027",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "過年",
+      "ko": "설날",
+      "alternatives": []
+    },
+    {
+      "id": "v028",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "咖啡廳",
+      "ko": "카페",
+      "alternatives": []
+    },
+    {
+      "id": "v029",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "公分",
+      "ko": "센티미터",
+      "alternatives": []
+    },
+    {
+      "id": "v030",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "公尺",
+      "ko": "미터",
+      "alternatives": []
+    },
+    {
+      "id": "v031",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "百貨公司",
+      "ko": "백화점",
+      "alternatives": []
+    },
+    {
+      "id": "v032",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "公里",
+      "ko": "킬로미터",
+      "alternatives": []
+    },
+    {
+      "id": "v033",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "公克",
+      "ko": "그램",
+      "alternatives": []
+    },
+    {
+      "id": "v034",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "星期幾",
+      "ko": "무슨 요일",
+      "alternatives": []
+    },
+    {
+      "id": "v035",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "幾日",
+      "ko": "며칠",
+      "alternatives": []
+    },
+    {
+      "id": "v036",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "幾年級",
+      "ko": "몇 학년",
+      "alternatives": []
+    },
+    {
+      "id": "v037",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "幾樓",
+      "ko": "몇 층",
+      "alternatives": []
+    },
+    {
+      "id": "v038",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "中秋節",
+      "ko": "추석",
+      "alternatives": []
+    },
+    {
+      "id": "v039",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "身高",
+      "ko": "키",
+      "alternatives": []
+    },
+    {
+      "id": "v040",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "手機",
+      "ko": "휴대폰",
+      "alternatives": []
+    },
+    {
+      "id": "v041",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "幾點",
+      "ko": "몇 시",
+      "alternatives": []
+    },
+    {
+      "id": "v042",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "幾元／多少錢",
+      "ko": "얼마",
+      "alternatives": []
+    },
+    {
+      "id": "v043",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "星期三",
+      "ko": "수요일",
+      "alternatives": []
+    },
+    {
+      "id": "v044",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "聖誕節",
+      "ko": "크리스마스",
+      "alternatives": []
+    },
+    {
+      "id": "v045",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "今年",
+      "ko": "올해",
+      "alternatives": []
+    },
+    {
+      "id": "v046",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "美容院",
+      "ko": "미용실",
+      "alternatives": []
+    },
+    {
+      "id": "v047",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "加油站",
+      "ko": "주유소",
+      "alternatives": []
+    },
+    {
+      "id": "v048",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "停車場",
+      "ko": "주차장",
+      "alternatives": []
+    },
+    {
+      "id": "v049",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "機場",
+      "ko": "공항",
+      "alternatives": []
+    },
+    {
+      "id": "v050",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "飯店",
+      "ko": "호텔",
+      "alternatives": []
+    },
+    {
+      "id": "v051",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "藥局",
+      "ko": "약국",
+      "alternatives": []
+    },
+    {
+      "id": "v052",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "便利店",
+      "ko": "편의점",
+      "alternatives": []
+    },
+    {
+      "id": "v053",
+      "lesson": "講義原題",
+      "category": "原題單字",
+      "zh": "韓語課",
+      "ko": "한국어 수업",
+      "alternatives": []
+    },
+    {
+      "id": "v054",
+      "lesson": "延伸複習",
+      "category": "星期與日期",
+      "zh": "星期一",
+      "ko": "월요일",
+      "alternatives": []
+    },
+    {
+      "id": "v055",
+      "lesson": "延伸複習",
+      "category": "星期與日期",
+      "zh": "星期二",
+      "ko": "화요일",
+      "alternatives": []
+    },
+    {
+      "id": "v056",
+      "lesson": "延伸複習",
+      "category": "星期與日期",
+      "zh": "星期四",
+      "ko": "목요일",
+      "alternatives": []
+    },
+    {
+      "id": "v057",
+      "lesson": "延伸複習",
+      "category": "星期與日期",
+      "zh": "星期五",
+      "ko": "금요일",
+      "alternatives": []
+    },
+    {
+      "id": "v058",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "今天",
+      "ko": "오늘",
+      "alternatives": []
+    },
+    {
+      "id": "v059",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "昨天",
+      "ko": "어제",
+      "alternatives": []
+    },
+    {
+      "id": "v060",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "現在",
+      "ko": "지금",
+      "alternatives": []
+    },
+    {
+      "id": "v061",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "早上",
+      "ko": "아침",
+      "alternatives": []
+    },
+    {
+      "id": "v062",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "中午",
+      "ko": "점심",
+      "alternatives": []
+    },
+    {
+      "id": "v063",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "晚上",
+      "ko": "저녁",
+      "alternatives": []
+    },
+    {
+      "id": "v064",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "這星期",
+      "ko": "이번 주",
+      "alternatives": []
+    },
+    {
+      "id": "v065",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "這個月",
+      "ko": "이번 달",
+      "alternatives": []
+    },
+    {
+      "id": "v066",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "什麼時候",
+      "ko": "언제",
+      "alternatives": []
+    },
+    {
+      "id": "v067",
+      "lesson": "延伸複習",
+      "category": "時間與日期",
+      "zh": "生日",
+      "ko": "생일",
+      "alternatives": []
+    },
+    {
+      "id": "v068",
+      "lesson": "延伸複習",
+      "category": "地點與場所",
+      "zh": "學校",
+      "ko": "학교",
+      "alternatives": []
+    },
+    {
+      "id": "v069",
+      "lesson": "延伸複習",
+      "category": "地點與場所",
+      "zh": "教室",
+      "ko": "교실",
+      "alternatives": []
+    },
+    {
+      "id": "v070",
+      "lesson": "延伸複習",
+      "category": "地點與場所",
+      "zh": "家",
+      "ko": "집",
+      "alternatives": []
+    },
+    {
+      "id": "v071",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "朋友",
+      "ko": "친구",
+      "alternatives": []
+    },
+    {
+      "id": "v072",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "媽媽",
+      "ko": "엄마",
+      "alternatives": []
+    },
+    {
+      "id": "v073",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "爸爸",
+      "ko": "아빠",
+      "alternatives": []
+    },
+    {
+      "id": "v074",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "姊姊（女生稱）",
+      "ko": "언니",
+      "alternatives": []
+    },
+    {
+      "id": "v075",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "姊姊（男生稱）",
+      "ko": "누나",
+      "alternatives": []
+    },
+    {
+      "id": "v076",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "哥哥（女生稱）",
+      "ko": "오빠",
+      "alternatives": []
+    },
+    {
+      "id": "v077",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "哥哥（男生稱）",
+      "ko": "형",
+      "alternatives": []
+    },
+    {
+      "id": "v078",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "妹妹",
+      "ko": "여동생",
+      "alternatives": []
+    },
+    {
+      "id": "v079",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "弟弟",
+      "ko": "남동생",
+      "alternatives": []
+    },
+    {
+      "id": "v080",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "爺爺",
+      "ko": "할아버지",
+      "alternatives": []
+    },
+    {
+      "id": "v081",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "大學生",
+      "ko": "대학생",
+      "alternatives": []
+    },
+    {
+      "id": "v082",
+      "lesson": "延伸複習",
+      "category": "人物與稱謂",
+      "zh": "上班族",
+      "ko": "직장인",
+      "alternatives": []
+    },
+    {
+      "id": "v083",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "去",
+      "ko": "가다",
+      "alternatives": []
+    },
+    {
+      "id": "v084",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "來",
+      "ko": "오다",
+      "alternatives": []
+    },
+    {
+      "id": "v085",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "吃",
+      "ko": "먹다",
+      "alternatives": []
+    },
+    {
+      "id": "v086",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "喝",
+      "ko": "마시다",
+      "alternatives": []
+    },
+    {
+      "id": "v087",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "做",
+      "ko": "하다",
+      "alternatives": []
+    },
+    {
+      "id": "v088",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "學習",
+      "ko": "공부하다",
+      "alternatives": []
+    },
+    {
+      "id": "v089",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "見面",
+      "ko": "만나다",
+      "alternatives": []
+    },
+    {
+      "id": "v090",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "回去",
+      "ko": "돌아가다",
+      "alternatives": []
+    },
+    {
+      "id": "v091",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "有／在",
+      "ko": "있다",
+      "alternatives": []
+    },
+    {
+      "id": "v092",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "沒有／不在",
+      "ko": "없다",
+      "alternatives": []
+    },
+    {
+      "id": "v093",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "誰",
+      "ko": "누구",
+      "alternatives": []
+    },
+    {
+      "id": "v094",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "哪裡",
+      "ko": "어디",
+      "alternatives": []
+    },
+    {
+      "id": "v095",
+      "lesson": "延伸複習",
+      "category": "動詞與表達",
+      "zh": "什麼",
+      "ko": "뭐",
+      "alternatives": []
+    },
+    {
+      "id": "v096",
+      "lesson": "延伸複習",
+      "category": "節日與活動",
+      "zh": "生日派對",
+      "ko": "생일 파티",
+      "alternatives": []
+    }
+  ],
+  "sentences": [
+    {
+      "id": "s001",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "今天是星期三。",
+      "ko": "오늘은 수요일이에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s002",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "我是大學生。",
+      "ko": "저는 대학생이에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s003",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "我不是上班族。",
+      "ko": "저는 직장인이 아니에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s004",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "今天去學校。",
+      "ko": "오늘 학교에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s005",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "傍晚回家。",
+      "ko": "저녁에 집에 돌아가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s006",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期日做什麼呢？",
+      "ko": "일요일에 뭐 해요?",
+      "alternatives": []
+    },
+    {
+      "id": "s007",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期六有約。",
+      "ko": "토요일에 약속이 있어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s008",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期六去韓國。",
+      "ko": "토요일에 한국에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s009",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "什麼時候去韓國？",
+      "ko": "언제 한국에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s010",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "和姐姐一起去。",
+      "ko": "언니와 같이 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s011",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "白天去咖啡廳。",
+      "ko": "낮에 카페에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s012",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "和誰去美容院呢？",
+      "ko": "누구와 미용실에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s013",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期六和堂妹去美容院。",
+      "ko": "토요일에 사촌 여동생과 미용실에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s014",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "下個月去濟州島。",
+      "ko": "다음 달에 제주도에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s015",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "妹妹下午去補習班。",
+      "ko": "여동생은 오후에 학원에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s016",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期日不去學校。",
+      "ko": "일요일에는 학교에 안 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s017",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期日和媽媽一起去市場。",
+      "ko": "일요일에 엄마와 같이 시장에 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s018",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "今天有朋友的生日派對。",
+      "ko": "오늘 친구의 생일 파티가 있어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s019",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "這星期三有韓語課。",
+      "ko": "이번 주 수요일에 한국어 수업이 있어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s020",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "過年是陰曆1月1日。",
+      "ko": "설날은 음력 1월 1일이에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s021",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "陰曆8月15日是中秋節。",
+      "ko": "음력 8월 15일은 추석이에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s022",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "堂姊的結婚典禮是這星期六。",
+      "ko": "사촌 언니의 결혼식은 이번 주 토요일이에요.",
+      "alternatives": []
+    },
+    {
+      "id": "s023",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "12月25日是星期幾？",
+      "ko": "12월 25일은 무슨 요일이에요?",
+      "alternatives": []
+    },
+    {
+      "id": "s024",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "手機號碼是幾號？",
+      "ko": "휴대폰 번호가 몇 번이에요?",
+      "alternatives": []
+    },
+    {
+      "id": "s025",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "星期日有空嗎？（有時間嗎？）",
+      "ko": "일요일에 시간 있어요?",
+      "alternatives": []
+    },
+    {
+      "id": "s026",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "有行動電話號碼嗎？",
+      "ko": "휴대폰 번호가 있어요?",
+      "alternatives": []
+    },
+    {
+      "id": "s027",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "現在去。",
+      "ko": "지금 가요.",
+      "alternatives": []
+    },
+    {
+      "id": "s028",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "去哪裡？",
+      "ko": "어디에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s029",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "早上去哪裡？",
+      "ko": "아침에 어디에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s030",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "中午去郵局？",
+      "ko": "점심때 우체국에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s031",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "吃午餐。",
+      "ko": "점심을 먹어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s032",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "吃晚餐。",
+      "ko": "저녁을 먹어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s033",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "什麼時候吃飯呢？",
+      "ko": "언제 밥을 먹어요?",
+      "alternatives": []
+    },
+    {
+      "id": "s034",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "生日是什麼時候？",
+      "ko": "생일이 언제예요?",
+      "alternatives": []
+    },
+    {
+      "id": "s035",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "地下一樓有停車場。",
+      "ko": "지하 1층에 주차장이 있어요.",
+      "alternatives": []
+    },
+    {
+      "id": "s036",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "現在是幾點？",
+      "ko": "지금 몇 시예요?",
+      "alternatives": []
+    },
+    {
+      "id": "s037",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "什麼時候去爺爺家呢？",
+      "ko": "언제 할아버지 댁에 가요?",
+      "alternatives": []
+    },
+    {
+      "id": "s038",
+      "lesson": "講義原題",
+      "category": "句子翻譯",
+      "zh": "和誰一起去呢？",
+      "ko": "누구와 같이 가요?",
+      "alternatives": []
+    }
+  ]
+}
