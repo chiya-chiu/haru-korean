@@ -25,3 +25,9 @@ python -m http.server 8000
 - 答題紀錄和自訂題庫使用 localStorage，僅限目前瀏覽器，清除網站資料後會消失。
 - 朗讀需瀏覽器支援 Web Speech API 且裝置具備韓文語音。
 - 翻譯採用題庫列出的標準答案與可接受答案，不會自動辨識所有語意相同的自由翻譯。
+
+
+## 講義題庫
+已根據「韓文複習講義_單字雙欄純文字版.docx」整理：96 筆不重複單字、38 題句子。原題與延伸複習分開標記，未擅自對應教科書課次。data/grammar-patterns.json 另存句型參考，不計入測驗。
+
+GitHub Pages: Settings → Pages → Deploy from a branch → main / (root)。上傳時請將 index.html 放在 repository 根目錄，並保留 data/questions.json。
